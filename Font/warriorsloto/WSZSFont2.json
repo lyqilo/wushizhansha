@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "WSZSFont2_,.png",
+	"frame": {"x":0,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_..png",
+	"frame": {"x":81,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_0.png",
+	"frame": {"x":162,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_1.png",
+	"frame": {"x":243,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_2.png",
+	"frame": {"x":324,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_3.png",
+	"frame": {"x":405,"y":0,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_4.png",
+	"frame": {"x":0,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_5.png",
+	"frame": {"x":81,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_6.png",
+	"frame": {"x":162,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_7.png",
+	"frame": {"x":243,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_8.png",
+	"frame": {"x":324,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_9.png",
+	"frame": {"x":405,"y":90,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_B.png",
+	"frame": {"x":0,"y":180,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_K.png",
+	"frame": {"x":81,"y":180,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_M.png",
+	"frame": {"x":162,"y":180,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+},
+{
+	"filename": "WSZSFont2_T.png",
+	"frame": {"x":243,"y":180,"w":80,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":89},
+	"sourceSize": {"w":80,"h":89}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "WSZSFont2.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:01cffae576a1a7779960ce53a4d6103d:d8ba5546e7674c33c8db65188f8ab7d4:fd2fc55b7fcaa4ea2094c2230bdf4325$"
+}
+}
